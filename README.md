@@ -71,7 +71,12 @@
 
 #### 第五步，Astroport上交易和提供流动性
     1、兑换ASTRO： https://app.astroport.fi/swap
+<img width="808" alt="20230516165143" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/b7579765-4bfd-43a6-bb3b-5965edc5aa36">
 
+<img width="367" alt="20230516164920" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/fbdc0bde-90c9-4cb7-a5ce-f56d0dcbb427">
+
+    2、创建交易对： https://app.astroport.fi/pools
+<img width="1032" alt="20230516165518" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/692d0b66-1f25-45f8-a83e-57e8e94bf324">
 
 
 

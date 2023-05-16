@@ -37,6 +37,7 @@
     https://twitter.com/sparrowswapxyz
     https://twitter.com/EclipsePad?s=20
     https://twitter.com/Kryptonite_fi
+    https://twitter.com/astroport_fi
 
     https://discord.gg/blocked
 
@@ -78,6 +79,13 @@
     2、创建交易对： https://app.astroport.fi/pools
 <img width="1032" alt="20230516165518" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/692d0b66-1f25-45f8-a83e-57e8e94bf324">
 
+#### 第六步，Coded Estate上铸造NFT
+   铸造地址： https://demo.codedestate.com/dashboard/overview
+<img width="846" alt="20230516170234" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/cdcef72a-057b-476e-8d04-3f6d3b103837">
+
+#### 第七步，Levana上提供流动性
+   1、领取1个ETH与0.1个SEI： https://beta-sei.levana.exchange/trade/ETH_USD
+<img width="717" alt="20230516170659" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/cac8b6af-df7b-42f8-bb80-4cde58ed5822">
 
 
 

@@ -1,5 +1,5 @@
 # Sei-Netwoek Atlantitic-2测试网任务
-### 准备工作
+### 第一部分：准备工作
 #### 第一步，安装leap插件钱包
     https://chrome.google.com/webstore/detail/leap-cosmos-wallet/fcfcfllfndlomdhbehjjcoimbgofdncg
 
@@ -11,18 +11,29 @@
 <img width="698" alt="20230516135906" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/2b383126-46a1-493b-b251-91a9cfe237af">
 
 #### 第三步，切换网络
-    展开leap插件钱包，点击右上角图标，在搜索框中输入sei
+    展开leap插件钱包，点击右上角图标，在搜索框中输入sei（此处可得到sei的钱包地址，DC领水时需用到）
 <img width="295" alt="20230516142033" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/6823fac4-6315-4a74-9120-0bb37a081a27">
 
+#### 第四步，加入DC领水
+    Sei官方DC： https://discord.gg/sei
+    领水频道： https://discord.com/channels/973057323805311026/1080227222620733460
+    领水命令： !faucet sei开头的钱包地址
+<img width="686" alt="20230516142529" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/a3582a62-8105-43df-93c6-cb1618a8b028">
 
 
+### 第二部分：任务
+#### 第一步，关注推特
+    https://twitter.com/SeiNetwork
+    https://twitter.com/BlockedProtocol
+    https://twitter.com/leap_cosmos
+    https://twitter.com/sparrowswapxyz
+    https://twitter.com/EclipsePad?s=20
+    https://twitter.com/Kryptonite_fi
 
-
-
-
-
-
-
+#### 第二步，交易和做流动性
+    交易多个币 usdc ，RUM，USDT，DUEL
+    交易地址： https://testnet.sparrowswap.xyz/
+<img width="897" alt="20230516143223" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/358b842b-eb84-46aa-80d1-cee8377b79c7">
 
 
 

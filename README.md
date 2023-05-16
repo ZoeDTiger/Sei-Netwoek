@@ -38,6 +38,7 @@
     https://twitter.com/EclipsePad?s=20
     https://twitter.com/Kryptonite_fi
     https://twitter.com/astroport_fi
+    https://twitter.com/Levana_protocol
 
     https://discord.gg/blocked
 

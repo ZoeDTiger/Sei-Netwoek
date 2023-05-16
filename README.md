@@ -50,6 +50,8 @@
 
 <img width="860" alt="20230516162220" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/649c37aa-8f66-4941-89ba-876e9060c8f9">
 
+<img width="851" alt="20230516162912" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/017bdb4b-12bd-4733-8eb7-7d72a47a8088">
+
 <img width="870" alt="20230516162408" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/3182f02d-f2f2-4280-8576-441e3fb10d3c">
 
 <img width="887" alt="20230516161447" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/673cd111-17c9-46f1-97a4-075b355ab00e">

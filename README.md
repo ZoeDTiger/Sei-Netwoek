@@ -39,6 +39,7 @@
     https://twitter.com/Kryptonite_fi
     https://twitter.com/astroport_fi
     https://twitter.com/Levana_protocol
+    https://twitter.com/codedestate
 
     https://discord.gg/blocked
 
@@ -94,7 +95,7 @@
     3、存入USDT或ETH提供流动性，流动性数量需要大于0.01： https://beta-sei.levana.exchange/earn
 <img width="997" alt="20230516171442" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/62455bf5-d9e1-4075-aff6-e7d2e80eda86">
 
-
+#### 第八步，FABLE上抵押代币并加入游戏团队
 
 
 

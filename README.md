@@ -40,7 +40,7 @@
 
     https://discord.gg/blocked
 
-#### 第三步，交易和做流动性
+#### 第三步，SparrowSwap上交易和提供流动性
     交易多个币 USDC、RUM、USDT、DUEL，图中所注是最小兑换数量，建议RUM兑换5个、DUEL兑换5个、USDC兑换100个、USDT兑换100个
     
     交易地址： https://testnet.sparrowswap.xyz/
@@ -66,10 +66,11 @@
 
     3、借贷USDT： https://app.kryptonite.finance/borrow
 <img width="921" alt="20230516164334" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/5e83b7fc-a47a-4daf-bab7-456edc0f051d">
+
 <img width="958" alt="20230516164421" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/69d6c454-1f64-4266-82c4-4348e4c952ab">
 
-
-
+#### 第五步，Astroport上交易和提供流动性
+    1、兑换ASTRO： https://app.astroport.fi/swap
 
 
 

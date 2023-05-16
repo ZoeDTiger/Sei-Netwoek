@@ -57,7 +57,18 @@
 
 <img width="887" alt="20230516161447" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/673cd111-17c9-46f1-97a4-075b355ab00e">
 
-#### 第四步，
+#### 第四步，质押
+    1、存入USDT： https://app.kryptonite.finance/earn    
+<img width="868" alt="20230516163815" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/1790f00d-7efb-432a-b270-9ad55d7ec193">
+    
+    2、mint 0.1 SEI： https://app.kryptonite.finance/basset
+<img width="546" alt="20230516164006" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/9d014c07-f67f-4bcf-9ddc-f22a79909121">
+
+    3、借贷USDT： https://app.kryptonite.finance/borrow
+<img width="921" alt="20230516164334" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/5e83b7fc-a47a-4daf-bab7-456edc0f051d">
+
+
+
 
 
 

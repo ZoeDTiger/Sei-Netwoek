@@ -22,6 +22,10 @@
 
 
 ### 第二部分：任务
+#### 第一步，任务入口
+    进入任务平台，通过leap钱包登录（目前任务2与任务5已结束，不做）
+<img width="794" alt="20230516144428" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/fb790d7a-7b43-40e1-aa36-07f81ce01b61">
+
 #### 第一步，关注推特
     https://twitter.com/SeiNetwork
     https://twitter.com/BlockedProtocol
@@ -33,7 +37,7 @@
 #### 第二步，交易和做流动性
     交易多个币 usdc ，RUM，USDT，DUEL
     交易地址： https://testnet.sparrowswap.xyz/
-<img width="897" alt="20230516143223" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/358b842b-eb84-46aa-80d1-cee8377b79c7">
+
 
 
 

@@ -84,11 +84,14 @@
 <img width="846" alt="20230516170234" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/cdcef72a-057b-476e-8d04-3f6d3b103837">
 
 #### 第七步，Levana上提供流动性
-   1、领取1个ETH与0.1个SEI： https://beta-sei.levana.exchange/trade/ETH_USD
+    1、领取1个ETH与0.1个SEI： https://beta-sei.levana.exchange/trade/ETH_USD
 <img width="717" alt="20230516170659" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/cac8b6af-df7b-42f8-bb80-4cde58ed5822">
 
+    2、杠杆交易：选LOng，选Market，通过上下箭头切换交易币种（USDT与ETH）
+<img width="429" alt="20230516171118" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/71656c68-da72-4df3-a191-7e33a1a18e3f">
 
-
+    3、存入USDT或ETH提供流动性，流动性数量需要大于0.01： https://beta-sei.levana.exchange/earn
+<img width="997" alt="20230516171442" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/62455bf5-d9e1-4075-aff6-e7d2e80eda86">
 
 
 

@@ -30,7 +30,7 @@
 
     任务平台地址：https://edge.blocked.cc/products/1
 
-#### 第一步，关注推特与加入DC
+#### 第二步，关注推特与加入DC
     https://twitter.com/SeiNetwork
     https://twitter.com/BlockedProtocol
     https://twitter.com/leap_cosmos
@@ -40,11 +40,35 @@
 
     https://discord.gg/blocked
 
-#### 第二步，交易和做流动性
-    交易多个币 usdc ，RUM，USDT，DUEL
+#### 第三步，交易和做流动性
+    交易多个币 USDC ，RUM，USDT，DUEL
     交易地址： https://testnet.sparrowswap.xyz/
+    
 <img width="856" alt="20230516161350" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/06e70774-edcf-4dc4-bdeb-4a0268a9a0fa">
+
+<img width="872" alt="20230516162010" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/e351822d-940c-4fba-a5bd-1cb0b6e397af">
+
+<img width="860" alt="20230516162220" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/649c37aa-8f66-4941-89ba-876e9060c8f9">
+
+<img width="870" alt="20230516162408" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/3182f02d-f2f2-4280-8576-441e3fb10d3c">
+
 <img width="887" alt="20230516161447" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/673cd111-17c9-46f1-97a4-075b355ab00e">
+
+#### 第四步，
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

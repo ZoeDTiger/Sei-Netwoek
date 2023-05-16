@@ -26,6 +26,8 @@
     进入任务平台，通过leap钱包登录（目前任务2与任务5已结束，不做）
 <img width="794" alt="20230516144428" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/fb790d7a-7b43-40e1-aa36-07f81ce01b61">
 
+    任务平台地址：https://edge.blocked.cc/products/1
+
 #### 第一步，关注推特
     https://twitter.com/SeiNetwork
     https://twitter.com/BlockedProtocol

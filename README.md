@@ -41,7 +41,8 @@
     https://discord.gg/blocked
 
 #### 第三步，交易和做流动性
-    交易多个币 USDC ，RUM，USDT，DUEL
+    交易多个币 USDC、RUM、USDT、DUEL，图中所注是最小兑换数量，建议RUM兑换5个、DUEL兑换5个、USDC兑换100个、USDT兑换100个
+    
     交易地址： https://testnet.sparrowswap.xyz/
     
 <img width="856" alt="20230516161350" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/06e70774-edcf-4dc4-bdeb-4a0268a9a0fa">

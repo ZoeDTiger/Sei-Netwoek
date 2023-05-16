@@ -66,6 +66,7 @@
 
     3、借贷USDT： https://app.kryptonite.finance/borrow
 <img width="921" alt="20230516164334" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/5e83b7fc-a47a-4daf-bab7-456edc0f051d">
+<img width="958" alt="20230516164421" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/69d6c454-1f64-4266-82c4-4348e4c952ab">
 
 
 

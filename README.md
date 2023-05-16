@@ -44,7 +44,7 @@
     https://discord.gg/blocked
 
 #### 第三步，SparrowSwap上交易和提供流动性
-    交易多个币 USDC、RUM、USDT、DUEL，图中所注是最小兑换数量，建议RUM兑换5个、DUEL兑换5个、USDC兑换100个、USDT兑换100个
+    交易多个币 USDC、RUM、USDT、DUEL、FABLE，图中所注是最小兑换数量，建议RUM兑换5个、DUEL兑换5个、USDC兑换100个、USDT兑换100个、FABLE兑换5个
     
     交易地址： https://testnet.sparrowswap.xyz/
     
@@ -55,6 +55,8 @@
 <img width="860" alt="20230516162220" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/649c37aa-8f66-4941-89ba-876e9060c8f9">
 
 <img width="851" alt="20230516162912" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/017bdb4b-12bd-4733-8eb7-7d72a47a8088">
+
+<img width="868" alt="20230516172321" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/56334a49-1f67-4aec-9bc4-d98da705a142">
 
 <img width="870" alt="20230516162408" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/3182f02d-f2f2-4280-8576-441e3fb10d3c">
 
@@ -95,8 +97,10 @@
     3、存入USDT或ETH提供流动性，流动性数量需要大于0.01： https://beta-sei.levana.exchange/earn
 <img width="997" alt="20230516171442" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/62455bf5-d9e1-4075-aff6-e7d2e80eda86">
 
-#### 第八步，FABLE上抵押代币并加入游戏团队
-
+#### 第八步，FABLE上抵押代币加入游戏团队
+    1、抵押代币加入游戏团队： https://testnet.fableleague.com/
+<img width="840" alt="20230516172517" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/95c5f8ee-34dc-4a1d-adb2-6b472f2d8bc8">
+<img width="892" alt="20230516172536" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/e0cb71b6-05ca-4e5e-9ecb-7da75fe9330f">
 
 
 

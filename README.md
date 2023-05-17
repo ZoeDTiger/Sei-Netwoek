@@ -14,12 +14,16 @@
     展开leap插件钱包，点击右上角图标，在搜索框中输入sei（此处可得到sei的钱包地址，DC领水时需用到）
 <img width="295" alt="20230516142033" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/6823fac4-6315-4a74-9120-0bb37a081a27">
 
-#### 第四步，加入Sei DC领水
+#### 第四步，加入DC领水
     Sei官方DC： https://discord.gg/sei
     领水频道： https://discord.com/channels/973057323805311026/1080227222620733460
     领水命令： !faucet sei开头的钱包地址
 <img width="686" alt="20230516142529" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/a3582a62-8105-43df-93c6-cb1618a8b028">
 
+    其他DC领水，每12小时可领0.1个： https://discord.gg/stakeme
+    领水频道： https://discord.com/channels/1061940741976363100/1101867841189318656
+    领水命令： /faucet sei开头的钱包地址
+<img width="771" alt="20230517103116" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/4fb568f4-da33-468e-8049-30f82335bf5d">
 
 ### 第二部分：任务
 #### 第一步，任务入口

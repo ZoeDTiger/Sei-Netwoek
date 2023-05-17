@@ -29,7 +29,7 @@
 #### 第一步，任务入口
     进入任务平台，通过leap钱包登录
     注意：1、目前任务2与任务5已结束，不做；
-         2、使终保留钱包中有0.1个sei
+         **2、始终保留钱包中有0.1个sei**
 <img width="794" alt="20230516144428" src="https://github.com/ZoeDTiger/Sei-Netwoek/assets/100336530/fb790d7a-7b43-40e1-aa36-07f81ce01b61">
 
     任务平台地址：https://edge.blocked.cc/products/1
